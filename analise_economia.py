@@ -26,7 +26,7 @@ def desvio(v):
     m = media(v)
     return (sum((x - m) ** 2 for x in v) / (len(v) - 1)) ** 0.5
 
-print("\n--- Estatísticas (todos os anos disponíveis) ---")
+print("\n--- Estatísticas (2010 em diante) ---")
 for nome, serie in series.items():
-    v = list(serie.values())
+    v = [valor for ano, valor in serie.items() if ano >= 2010]
     print(f"{nome}: média={media(v):.2f}  desvio={desvio(v):.2f}  n={len(v)}")
