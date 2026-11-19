@@ -45,4 +45,5 @@ Banco Mundial, World Development Indicators (https://data.worldbank.org).
 ## Autor
 
 Lenine João Miranda
-Licenciado em Matemática (Estatística) | Análise de dados com Python | Moçambique
+
+Licenciado em Matemática (Estatística) | ...
