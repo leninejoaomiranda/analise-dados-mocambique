@@ -46,4 +46,4 @@ Banco Mundial, World Development Indicators (https://data.worldbank.org).
 
 Lenine João Miranda
 
-Licenciado em Matemática (Estatística) | ...
+Licenciado em Matemática (Estatística) |
