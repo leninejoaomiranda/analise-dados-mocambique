@@ -31,7 +31,7 @@ Banco Mundial, World Development Indicators (https://data.worldbank.org).
 
 ![Gráfico de PIB e inflação em Moçambique](grafico_pib_inflacao.png)
 
-O crescimento do PIB foi mais forte até 2015 (entre cerca de 6,5% e 8% ao ano) e abrandou depois. A inflação teve dois picos, em 2016 e 2017, e outro menor em 2022.
+O crescimento do PIB foi mais forte até 2015 (entre cerca de 6,5% e 8% ao ano) e abrandou  depois. A inflação teve dois picos, em 2016 e 2017, e outro menor em 2022.
 
 ## Observações da análise
 
